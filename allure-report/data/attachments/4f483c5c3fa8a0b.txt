@@ -1,0 +1,9 @@
+count of options:  8
+0 th data:  Trending
+1 th data:  mobiles
+2 th data:  shoes
+3 th data:  t shirts
+4 th data:  laptops
+5 th data:  watches
+6 th data:  tv
+7 th data:  sarees

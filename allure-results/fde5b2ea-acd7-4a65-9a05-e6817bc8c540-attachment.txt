@@ -1,0 +1,9 @@
+Product found: Samsung galaxy s6
+Product found: Nokia lumia 1520
+Product found: Nexus 6
+Product found: Samsung galaxy s7
+Product found: Iphone 6 32gb
+Product found: Sony xperia z5
+Product found: HTC One M9
+Product found: Sony vaio i5
+Product found: Sony vaio i7

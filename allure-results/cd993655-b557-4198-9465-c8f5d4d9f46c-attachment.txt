@@ -1,0 +1,2 @@
+Data from specific cell: Master In Selenium
+Book with the lowest price is "Learn Selenium" with a price of 300

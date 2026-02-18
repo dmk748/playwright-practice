@@ -1,0 +1,2 @@
+Number of rows in the table: 4
+CPU Usage of Chrome is: 8.2%
